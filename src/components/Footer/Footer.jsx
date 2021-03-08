@@ -5,12 +5,12 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <a
-        href="www.youtube.com"
+        href="https://www.linkedin.com/in/asish-raz-75b38411b/"
         className="footer-link"
         target="_blank"
         rel="noreferrer"
       >
-        Watch here
+        Contact Me!
       </a>
     </div>
   );

@@ -12,12 +12,12 @@ const Nav = () => {
       </div>
       <div className="nav-right">
         <a
-          href="www.youtube.com"
+          href="https://asishraz.medium.com/"
           target="_blank"
           className="nav-aam-link"
           rel="noreferrer"
         >
-          Gareeb
+          My Medium Profile
         </a>
       </div>
     </div>

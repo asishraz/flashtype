@@ -1,4 +1,5 @@
 .footer-container {
+  font-family: "bangers";
   display: flex;
   align-items: center;
   background: #1d2020;
@@ -9,7 +10,7 @@
 }
 
 .footer-link {
-  font-size: 26px;
+  font-size: 46px;
   color: #e7e6e7;
   margin: 10px;
   text-align: center;

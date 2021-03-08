@@ -1,5 +1,6 @@
 import React from "react";
 import "./TryAgain.css";
+// url = "https://www.facebook.com/asish.buck/";
 
 const TryAgain = ({ words, characters, wpm, startAgain }) => {
   return (
@@ -25,14 +26,14 @@ const TryAgain = ({ words, characters, wpm, startAgain }) => {
           onClick={() => startAgain()}
           className="end-buttons start-again-btn"
         >
-          Re-try
+          Retry
         </button>
 
         <button
-          className="end-buttons"
+          className="end-buttons share-again-btn"
           onClick={() => {
             window.open(
-              "https://www.facebook.com/sharer/sharer.php?u=asishraz",
+              "https://www.facebook.com/sharer/sharer.php?u=asish.buck",
               "facebook-share-dialog",
               "width=800,height=600"
             );
@@ -42,7 +43,7 @@ const TryAgain = ({ words, characters, wpm, startAgain }) => {
         </button>
 
         <button
-          className="end-buttons"
+          className="end-buttons twitter-again-btn"
           onClick={() => {
             window.open(
               "https://twitter.com/intent/tweet?text=Check%20this%20out%20",

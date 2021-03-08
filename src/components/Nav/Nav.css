@@ -36,3 +36,17 @@
   color: #e7e6e7;
   font-weight: 800;
 }
+
+.nav-aam-link {
+  color: aqua;
+  font-family: "Poppins";
+}
+
+.nav-aam-link:hover {
+  cursor: pointer;
+  color: brown;
+  text-shadow: chartreuse;
+  text-decoration-color: cornflowerblue;
+  text-shadow: darkgreen;
+  text-decoration-line: none;
+}

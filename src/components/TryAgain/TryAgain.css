@@ -15,23 +15,26 @@
 .result-container > p {
   font-size: 28px;
   margin: 7px;
+  font-family: "poppins";
+  text-transform: capitalize;
 }
 
 .end-buttons {
+  font-family: "Bangers";
   position: relative;
-  margin: 12px;
-  border: none;
+  margin: 15px;
+  /* border: navy; */
   border-radius: 4px;
-  padding: 2px 16px;
+  padding: 2px 26px;
   min-width: 64px;
   vertical-align: middle;
   text-align: center;
-  color: #fff;
+  color: rgb(8, 10, 107);
   box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14),
     0 1px 5px 0 rgba(0, 0, 0, 0.12);
-  font-size: 18px;
-  font-weight: 500;
-  line-height: 36px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 46px;
   cursor: pointer;
   transition: background-color 0.2s;
 }
@@ -40,9 +43,30 @@
   background: #3e4248;
 }
 
+.share-again-btn {
+  background: #3b5998;
+}
+
+.twitter-again-btn {
+  background: #1da1f2;
+}
+
 .start-again-btn:hover,
 .start-again-btn:focus {
   background: #808080;
+  font-size: 30px;
+}
+
+.share-again-btn:hover,
+.share-again-btn:focus {
+  background: #5d7dc4;
+  font-size: 30px;
+}
+
+.twitter-again-btn:hover,
+.twitter-again-btn:focus {
+  background: #8faef3;
+  font-size: 30px;
 }
 
 .share-btn {
