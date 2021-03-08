@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/asishraz/flashtype/static/css/main.44fc6899.chunk.css",
+    "main.js": "/asishraz/flashtype/static/js/main.19d4607b.chunk.js",
+    "main.js.map": "/asishraz/flashtype/static/js/main.19d4607b.chunk.js.map",
+    "runtime-main.js": "/asishraz/flashtype/static/js/runtime-main.76337fc3.js",
+    "runtime-main.js.map": "/asishraz/flashtype/static/js/runtime-main.76337fc3.js.map",
+    "static/js/2.65bfe1ba.chunk.js": "/asishraz/flashtype/static/js/2.65bfe1ba.chunk.js",
+    "static/js/2.65bfe1ba.chunk.js.map": "/asishraz/flashtype/static/js/2.65bfe1ba.chunk.js.map",
+    "index.html": "/asishraz/flashtype/index.html",
+    "static/css/main.44fc6899.chunk.css.map": "/asishraz/flashtype/static/css/main.44fc6899.chunk.css.map",
+    "static/js/2.65bfe1ba.chunk.js.LICENSE.txt": "/asishraz/flashtype/static/js/2.65bfe1ba.chunk.js.LICENSE.txt",
+    "static/media/flashlogo.904ac8fd.png": "/asishraz/flashtype/static/media/flashlogo.904ac8fd.png",
+    "static/media/joker.b3ac1374.png": "/asishraz/flashtype/static/media/joker.b3ac1374.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76337fc3.js",
+    "static/js/2.65bfe1ba.chunk.js",
+    "static/css/main.44fc6899.chunk.css",
+    "static/js/main.19d4607b.chunk.js"
+  ]
+}
