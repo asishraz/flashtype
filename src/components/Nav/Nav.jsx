@@ -10,6 +10,7 @@ const Nav = () => {
         <img className="flash-logo" src={flashlogo} alt="logo" />
         <p className="flash-logo-text">Flash type</p>
       </div>
+      <h1 className="scrolldown">Scroll-Down</h1>
       <div className="nav-right">
         <a
           href="https://asishraz.medium.com/"
